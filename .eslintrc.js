@@ -16,11 +16,12 @@ module.exports = {
   ],
   // required to lint *.vue files
   plugins: [
-    'html'
+    'vue'
   ],
   // add your custom rules here
   'rules': {
     'indent': ['error', 4],
+    'vue/html-indent': ['error', 4],
     // allow paren-less arrow functions
     'arrow-parens': 0,
     // allow async-await
