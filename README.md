@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+Preview build: [https://lc-test-fdf14.firebaseapp.com/#/](https://lc-test-fdf14.firebaseapp.com/#/)
 ## Build Setup
 
 ``` bash
